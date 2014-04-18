@@ -6,9 +6,7 @@
       'target_name': 'All',
       'type': 'none',
       'dependencies': [
-        '<(DEPTH)/libchromeos/libchromeos-180609.gyp:*',
         '<(DEPTH)/libchromeos/libchromeos-242728.gyp:*',
-        '<(DEPTH)/metrics/libmetrics-180609.gyp:*',
         '<(DEPTH)/metrics/libmetrics-242728.gyp:*',
         '<(DEPTH)/metrics/metrics.gyp:*',
         '<(DEPTH)/power_manager/power_manager.gyp:*',
