@@ -7,7 +7,9 @@
       'type': 'none',
       'dependencies': [
         '<(DEPTH)/libchromeos/libchromeos-242728.gyp:*',
+        '<(DEPTH)/libchromeos/libchromeos-271506.gyp:*',
         '<(DEPTH)/metrics/libmetrics-242728.gyp:*',
+        '<(DEPTH)/metrics/libmetrics-271506.gyp:*',
         '<(DEPTH)/metrics/metrics.gyp:*',
         '<(DEPTH)/power_manager/power_manager.gyp:*',
         '<(DEPTH)/system_api/system_api.gyp:*',
